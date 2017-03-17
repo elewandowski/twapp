@@ -1,0 +1,23 @@
+{
+  "name": "twapp",
+  "version": "1.0.0",
+  "description": "my first twitter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elewandowski/twapp.git"
+  },
+  "author": "emil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elewandowski/twapp/issues"
+  },
+  "homepage": "https://github.com/elewandowski/twapp#readme",
+  "dependencies": {
+    "twitter-js-client": "0.0.5",
+    "twitter-node-client": "0.0.6"
+  }
+}
